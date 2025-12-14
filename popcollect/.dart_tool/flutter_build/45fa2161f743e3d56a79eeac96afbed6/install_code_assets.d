@@ -1,0 +1,1 @@
+ /Users/marwahaddaji/HEPL3/HEPL\ 3/DAM/popcollect2/code/popcollect/.dart_tool/flutter_build/45fa2161f743e3d56a79eeac96afbed6/native_assets.json: 
