@@ -8,6 +8,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "args",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/args-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/async-2.13.0",
       "packageUri": "lib/",
@@ -116,6 +122,12 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/flutter_svg-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///opt/homebrew/share/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -132,6 +144,18 @@
       "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/freezed_annotation-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/http-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "json_annotation",
@@ -188,6 +212,18 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/path_parsing-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/petitparser-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
       "name": "plugin_platform_interface",
       "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
@@ -236,6 +272,30 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "typed_data",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/vector_graphics-1.1.19",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.13",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.19",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/vector_math-2.2.0",
       "packageUri": "lib/",
@@ -252,6 +312,12 @@
       "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/marwahaddaji/.pub-cache/hosted/pub.dev/xml-6.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
     },
     {
       "name": "popcollect2",
